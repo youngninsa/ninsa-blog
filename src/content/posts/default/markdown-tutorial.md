@@ -1,6 +1,6 @@
 ---
 title: Markdown Tutorial
-published: 2026-6-10
+published: 2026-06-10
 pinned: true
 description: A simple example of a Markdown blog post.
 tags: [Markdown, Blogging]
