@@ -15,15 +15,21 @@ export const profileConfig: ProfileConfig = {
 		// 	icon: "fa7-brands:bilibili",
 		// 	url: "https://space.bilibili.com/701864046",
 		// },
-		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/youngninsa",
-		},
+
+		// {
+		// 	name: "Gitee",
+		// 	icon: "mdi:git",
+		// 	url: "https://gitee.com/youngninsa",
+		// },
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/youngninsa",
+		},
+		{
+			name: "Telegram",
+			icon: "fa7-brands:telegram",
+			url: "https://t.me/youngninsa",
 		},
 		{
 			name: "Codeberg",
