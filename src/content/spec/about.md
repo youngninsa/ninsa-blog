@@ -1,49 +1,81 @@
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+# 👋关于我
 
-::github{repo="LyraVoid/Mizuki"}
+你好呀，我是 **Ninsa**，一名普通的学生
 
-## 🌟 Theme Features
+## 🎯兴趣爱好
+- 
+- 算法竞赛
+- 生存模拟游戏
+- FPS
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+## 💻技术栈
+- c++
+- python
+- Linux
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+## 📝关于本站
+该博客是我的个人博客，用于记录生活与分享
+- 学习的技术与心得
+- 日常生活中的经历与感悟
 
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+## 📬联系方式
+- Github:[youngninsa](https://github.com/youngninsa)
+- QQ: 2472430027
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+# 🌟站点技术
+
+本站使用 **Astro** 框架构建，并采用 [Mizuki](https://github.com/LyraVoid/Mizuki) 主题。
+
+::github{repo="LyraVoid/Mizuki"}
+
+## 主题特性
+
+### 🎨设计与体验
+
+- **现代优雅的设计** - 简洁、清爽的界面，搭配精致的排版。
+- **完整响应式支持** - 从手机到桌面端，针对各类设备进行了适配优化。
+- **深色/浅色模式** - 支持主题自动切换，并带有平滑的过渡效果。
+- **优秀的文字排版** - 通过 JetBrains Mono 等字体提升阅读体验。
+- **流畅动画** - 提供自然的页面过渡和交互动画。
+
+### 🔍内容与搜索
+
+- **高级搜索** - 基于 [Pagefind](https://pagefind.app/) 提供快速、准确的搜索结果。
+- **增强 Markdown** - 扩展语法支持代码高亮和数学公式。
+- **交互式目录** - 为长文章提供可自动滚动定位的导航目录。
+- **RSS 订阅生成** - 自动生成订阅源，方便读者获取更新。
+- **阅读时间估算** - 显示文章大约需要阅读多久。
+- **文章分类管理** - 使用标签和分类组织内容。
+
+### 📱特色页面
+
+- **番剧追踪页面** - 记录番剧观看进度和评分。
+- **友链页面** - 使用精美卡片展示朋友的网站。
+- **日记/动态页面** - 像社交媒体动态一样分享生活片段。
+- **归档页面** - 以时间线形式整理展示全部文章。
+- **关于页面** - 可自定义的个人介绍页面，也就是当前页面。
+
+### 🛠技术特性
+
+- **增强代码块** - 基于 [Expressive Code](https://expressive-code.com/) 提供更好的代码展示效果。
+- **数学公式支持** - 使用 KaTeX 渲染 LaTeX 数学表达式。
+- **图片优化** - 集成 PhotoSwipe 图库并支持懒加载。
+- **SEO 优化** - 内置站点地图和元标签，提高搜索可见性。
+- **性能优化** - 通过缓存和构建优化实现快速加载。
+- **评论系统就绪** - 支持集成 Twikoo 评论系统。
+
+<!--### 高级 Markdown 功能
+
+- **提示框与说明块** - 使用 `> [!NOTE]`、`> [!TIP]`、`> [!WARNING]` 等语法创建美观的信息框。
+- **数学公式** - 使用 `$inline$` 和 `$$block$$` 语法编写 LaTeX 数学内容。
+- **GitHub 卡片** - 使用 `::github{repo="user/repo"}` 嵌入仓库卡片。
+- **语法高亮** - 支持带行号的高级代码高亮。
+- **代码复制按钮** - 提供便捷的代码复制功能。
+-->
+
+---
+
+*使用 Astro 用心构建，并受到现代 Web 设计理念启发。*
